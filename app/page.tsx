@@ -83,7 +83,7 @@ export default function ChristmasGreeting() {
         whileTap={{ scale: 0.95 }}
         className="mt-8 px-6 py-3 bg-red-600 text-white rounded-full font-semibold text-lg shadow-lg"
       >
-        Send Greetings From the Co-Founder's of Acryx
+        Greetings From the Co-Founder's of Acryx
       </motion.button>
     </div>
   );
